@@ -1,0 +1,4 @@
+Coloque nesta pasta a ROM original americana, sem cabecalho.
+Nome recomendado: zelda3.sfc
+
+A ROM nao acompanha esta distribuicao.
