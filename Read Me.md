@@ -19,3 +19,5 @@ Enter the IPv4 address of the player who will host the session, then either load
 Controls and player skins can be changed through the launcher.
 
 **Note:** You must provide your own original US ROM of *The Legend of Zelda: A Link to the Past*. Rename the ROM to `zelda3.sfc` and place it inside the `rom` folder.
+
+Send me a DM in X for feedback https://x.com/Nouiiiw
